@@ -2,7 +2,7 @@ local colors = {}
 
 local defaults = {
   polar_night = {
-    origin = "#242933", -- custom background
+    origin = "#0F1520", -- custom background
     bright = "#3B4252", -- nord1
     brighter = "#434C5E", -- nord2
     brightest = "#4C566A", -- nord3
